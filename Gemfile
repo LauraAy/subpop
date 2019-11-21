@@ -38,7 +38,7 @@ gem 'rails-jquery-autocomplete', '~> 1.0.3'
 gem 'jquery-cropper', '~> 2.3.2'
 
 # authentication
-gem 'devise', '~> 4.1.1'
+gem 'devise', '~> 4.7.1'
 # authorization
 gem 'cancancan', '~> 1.10'
 
