@@ -8,7 +8,7 @@ gem 'rails', '4.2.5'
 # Ugh, Rails 4.2.4 is broken w/r/t/ mysql2 gem > 0.3.x
 gem 'mysql2', '~> 0.3.18'
 
-gem 'bootstrap-sass', '~> 3.3.5'
+gem 'bootstrap-sass', '~> 3.4.1'
 
 gem 'font-awesome-rails'
 
