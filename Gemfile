@@ -61,7 +61,7 @@ gem 'exception_notification', '~> 4.1.1'
 # gem 'bcrypt', '~> 3.1.7'
 
 # Use Puma as the app server
-gem 'puma', '~> 2.16.0'
+gem 'puma', '~> 3.12.2'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
