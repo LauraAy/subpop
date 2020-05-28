@@ -43,7 +43,7 @@ gem 'devise', '~> 4.1.1'
 gem 'cancancan', '~> 1.10'
 
 # pagination
-gem 'kaminari', '~> 0.16.3'
+gem 'kaminari', '~> 1.2.1'
 
 # attach images
 gem 'paperclip', '~> 4.3'
